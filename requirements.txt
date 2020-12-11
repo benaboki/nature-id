@@ -1,0 +1,8 @@
+certifi==2020.12.5
+chardet==3.0.4
+idna==2.10
+numpy==1.19.4
+Pillow==8.0.1
+requests==2.25.0
+tflite-runtime @ https://github.com/google-coral/pycoral/releases/download/release-frogfish/tflite_runtime-2.5.0-cp36-cp36m-macosx_10_15_x86_64.whl
+urllib3==1.26.2
