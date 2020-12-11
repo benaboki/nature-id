@@ -26,6 +26,12 @@ On Windows the command is:
 python .\nature_id.py -m plants plant_images\Persicaria_amphibia.jpg
 ```
 
+On Mac the command is:
+
+```
+python nature_id.py -m plants plant_images/Persicaria_amphibia.jpg
+```
+
 ![Smartweed](/plant_images/Persicaria_amphibia.jpg)
 
 The above picture results in this identification:
