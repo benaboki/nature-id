@@ -1,10 +1,11 @@
 ## Birds
 ## Introduction
-Linked IOC World Bird List with inaturalist and CITES lists. Wherever possible the inaturalist taxonID is used.
+Linked IOC World Bird List with inaturalist and CITES lists. Wherever possible the inaturalist taxonID is provided.
 
 # IOC World Bird List
 The IOC World Bird List version 5.4 (Oct 24, 2015) was obtained in 2015 from https://www.worldbirdnames.org/new. The IOC World Bird List is undergoing consolidation and improved alignment of  global checklists of birds. Many revisions have taken place since 2015 so this list is already outdated. This project breaks down the list into 5 components (order, family, genus, species and subspecies) to facilitate the maintenance and use of the list using database systems.
 
+Benedict Omare. (2020). Taxonomy of Birds of the world (Version 1.0) [Data set]. Zenodo. http://doi.org/10.5281/zenodo.4320035
 
 ## I. Order
 - ID
