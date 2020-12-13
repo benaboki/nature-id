@@ -7,64 +7,64 @@ The IOC World Bird List version 5.4 (Oct 24, 2015) was obtained in 2015 from htt
 
 
 ## I. Order
-ID
-order
-code
-comment
-taxonID
-notes
+- ID
+- order
+- code
+- comment
+- taxonID
+- notes
 
 ## II. Family
-ID
-family_english
-family_scientific
-code
-comment
-order
-order_id
-taxonRank
-taxonID
-notes
+- ID
+- family_english
+- family_scientific
+- code
+- comment
+- order
+- order_id
+- taxonRank
+- taxonID
+- notes
 
 ## III. Genus
-ID
-genus
-authority
-code
-comment
-family
-family_id
-taxonID
-notes
+- ID
+- genus
+- authority
+- code
+- comment
+- family
+- family_id
+- taxonID
+- notes
 
 ## IV. Species
-ID
-scientific_name
-species_english
-species
-code
-comment
-status
-genus
-genus_id
-notes
-version_ioc
-species_english_alt1
-google_aiy
-taxonID
+- ID
+- scientific_name
+- species_english
+- species
+- code
+- comment
+- status
+- genus
+- genus_id
+- notes
+- version_ioc
+- species_english_alt1
+- google_aiy
+- taxonID
 
 ## V. Subspecies
-ID
-subspecies
-authority
-code
-comment
-status
-species
-species_id
-inaturalist
-taxonID
-notes
+- ID
+- subspecies
+- authority
+- code
+- comment
+- status
+- species
+- species_id
+- inaturalist
+- taxonID
+- notes
 
 ## Species Status Codes from IOC World Bird List
 
