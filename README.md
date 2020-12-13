@@ -201,6 +201,24 @@ On the above web pages scroll down and under **Output** click on *labelmap* to d
 
 The trained models come with scientific names as labels and many of those scientific names are already outdated. The common names and current taxonomy are obtained from this file: [https://www.inaturalist.org/taxa/inaturalist-taxonomy.dwca.zip](https://www.inaturalist.org/taxa/inaturalist-taxonomy.dwca.zip) This tool expects this zip archive in directory `inaturalist-taxonomy`.
 
+The list includes:
+  id
+  taxonID
+  identifier
+  parentNameUsageID
+  kingdom
+  phylum
+  class
+  order
+  family
+  genus
+  specificEpithet
+  infraspecificEpithet
+  modified
+  scientificName
+  taxonRank
+  references
+
 ## Sample Photos
 
 Sample pictures of plants are provided in directory `plant_images`. The file names hint at the species that I think is in the photo. Note that these examples result in a successful identification only to varying degrees. The *Mentzelia lindleyi* is certainly not correctly identified.
